@@ -28,7 +28,7 @@
       "title": "New frame",
       "titleLevel": 0,
       "notes": "",
-      "timeoutMs": 0,
+      "timeoutMs": 1000,
       "timeoutEnable": true,
       "transitionDurationMs": 1000,
       "showInFrameList": true,
@@ -314,8 +314,8 @@
         "layer5": {
           "deltaX": -133.92100137957016,
           "deltaY": 9.516558360954548,
-          "widthFactor": 2.9339486460276083,
-          "heightFactor": 0.9204906794442089,
+          "widthFactor": 2.933948646027608,
+          "heightFactor": 0.9204906794442087,
           "deltaAngle": 0
         },
         "layer8": {
@@ -625,8 +625,8 @@
         "layer5": {
           "deltaX": -133.92100137957016,
           "deltaY": 9.516558360954548,
-          "widthFactor": 2.9339486460276083,
-          "heightFactor": 0.9204906794442089,
+          "widthFactor": 2.933948646027608,
+          "heightFactor": 0.9204906794442087,
           "deltaAngle": 0
         },
         "layer8": {
@@ -936,8 +936,8 @@
         "layer5": {
           "deltaX": -116.56575045308375,
           "deltaY": 47.20745165323996,
-          "widthFactor": 2.948828842769478,
-          "heightFactor": 1.2335455467591556,
+          "widthFactor": 2.9488288427694775,
+          "heightFactor": 1.2335455467591552,
           "deltaAngle": -14.698753510688135
         },
         "layer8": {
@@ -961,7 +961,7 @@
       "title": "New frame",
       "titleLevel": 0,
       "notes": "",
-      "timeoutMs": 2000,
+      "timeoutMs": 1000,
       "timeoutEnable": true,
       "transitionDurationMs": 1000,
       "showInFrameList": true,
@@ -1247,8 +1247,8 @@
         "layer5": {
           "deltaX": -116.56575045308375,
           "deltaY": 47.20745165323996,
-          "widthFactor": 2.948828842769478,
-          "heightFactor": 1.2335455467591556,
+          "widthFactor": 2.9488288427694775,
+          "heightFactor": 1.2335455467591552,
           "deltaAngle": -14.698753510688135
         },
         "layer8": {
@@ -1558,8 +1558,8 @@
         "layer5": {
           "deltaX": -116.56575045308375,
           "deltaY": 47.20745165323996,
-          "widthFactor": 2.948828842769478,
-          "heightFactor": 1.2335455467591556,
+          "widthFactor": 2.9488288427694775,
+          "heightFactor": 1.2335455467591552,
           "deltaAngle": -14.698753510688135
         },
         "layer8": {
@@ -1869,8 +1869,8 @@
         "layer5": {
           "deltaX": -116.56575045308375,
           "deltaY": 47.20745165323996,
-          "widthFactor": 2.948828842769478,
-          "heightFactor": 1.2335455467591556,
+          "widthFactor": 2.9488288427694775,
+          "heightFactor": 1.2335455467591552,
           "deltaAngle": -14.698753510688135
         },
         "layer8": {
@@ -2180,8 +2180,8 @@
         "layer5": {
           "deltaX": -116.56575045308375,
           "deltaY": 47.20745165323996,
-          "widthFactor": 2.948828842769478,
-          "heightFactor": 1.2335455467591556,
+          "widthFactor": 2.9488288427694775,
+          "heightFactor": 1.2335455467591552,
           "deltaAngle": -14.698753510688135
         },
         "layer8": {
@@ -2491,8 +2491,8 @@
         "layer5": {
           "deltaX": -116.56575045308375,
           "deltaY": 47.20745165323996,
-          "widthFactor": 2.948828842769478,
-          "heightFactor": 1.2335455467591556,
+          "widthFactor": 2.9488288427694775,
+          "heightFactor": 1.2335455467591552,
           "deltaAngle": -14.698753510688135
         },
         "layer8": {
@@ -2802,8 +2802,8 @@
         "layer5": {
           "deltaX": -116.56575045308375,
           "deltaY": 47.20745165323996,
-          "widthFactor": 2.948828842769478,
-          "heightFactor": 1.2335455467591556,
+          "widthFactor": 2.9488288427694775,
+          "heightFactor": 1.2335455467591552,
           "deltaAngle": -14.698753510688135
         },
         "layer8": {
@@ -2828,7 +2828,7 @@
   ],
   "customFiles": [],
   "selectedFrames": [
-    "frame5788"
+    "frame6268"
   ],
   "selectedLayers": [
     "layer2",
